@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-time-tracking-dashboard-built-with-react-r8bfk3EREr)
-- Live Site URL: [Add live site URL here](https://jlb-time-tracking-dashboard.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-time-tracking-dashboard-built-with-react-r8bfk3EREr](https://www.frontendmentor.io/solutions/responsive-time-tracking-dashboard-built-with-react-r8bfk3EREr)
+- Live Site URL: [https://jlb-time-tracking-dashboard.netlify.app/](https://jlb-time-tracking-dashboard.netlify.app/)
 
 
 ### Built with
