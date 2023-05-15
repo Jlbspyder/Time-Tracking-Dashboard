@@ -1,5 +1,4 @@
 const PlayReport = ({ userData, daily, monthly, weekly }) => {
-  console.log(PlayReport.userData);
   return (
     <aside className="work play">
       <div className="icon-play">

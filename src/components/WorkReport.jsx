@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 const WorkReport = ({ userData, daily, monthly, weekly }) => {
+  
   return (
     <aside className="work">
       <div className="icon-work">
